@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    
+    }
+    
+    
+    
+    main {
+        width: 90%;
+        text-align: center;
+        margin: auto;
+      
+    }
+    
+    
+    
+    .search {
+        background-color: #EEEEEE;
+    }
+    .yukseklik {
+        height: 72px;
+        width: 100%;
+    }
+    .box1 {
+        
+        background-color: #7EE5DA;
+        width: 37%;
+        height: 70px;
+        float: left;
+        margin-top: 2px;
+        margin-right: 2px;
+        padding-top: 10px;
+        /* border: 0.1px solid #7EE5DA; */
+    
+        
+       
+    }
+    .box2 {
+        background-color: #70CCC2;
+        float: left;
+        width: 20%;
+        height: 72px;
+        margin-top: 2px;
+        margin-right: 2px;
+        /* border: 1px solid #70CCC2; */
+        padding-top: 8px;
+        font-size: 12.5px;
+     
+    }
+    .box3 {
+        background-color: #62B3AA;
+        width: calc(43% - 4px);
+        height: 80px;
+        float: left;
+        margin-top: 2px;
+        font-size: 12.5;
+    
+    
+    }
+    
+    
+    
+    .clear {
+        clear: both;
+    }
+    
+    
+    
+    footer {
+        font-size: 13px;
+    }
